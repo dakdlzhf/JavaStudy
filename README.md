@@ -1,1 +1,2 @@
-# JavaStudy
+# JavaStudy 
+* 6월 6일 시작  이것이 자바다 (신용권의 Java 프로그래밍 정복) 중 203 ~235page (발표자 김범우)
